@@ -1,3 +1,16 @@
+## 🏆 Best Paper Award – SCI-2026
+
+I am pleased to share that this project received the **Best Paper Award** at the **8th International Conference on Smart Computing and Informatics (SCI-2026)** held in Hanoi, Vietnam.
+
+### 📄 Paper Title
+**Detection of Potato Late Blight Using Leaf Images and a CNN-based Fusion Deep Learning Model**
+
+This research presents a fusion deep learning framework combining **EfficientNetB0** and **InceptionV3** with transfer learning techniques for accurate potato leaf disease classification using the PlantVillage dataset.
+
+The project focuses on early detection of Potato Late Blight to support intelligent and efficient agricultural disease monitoring using Artificial Intelligence and Computer Vision.
+
+[📄 View Award Certificate](.Best Paper ID 450.pdf)
+
 # Potato Late Blight Detection using Fusion CNN
 
 This repository contains the implementation of a fusion deep learning model for the detection of Potato Late Blight (PLB) using leaf images. The model combines EfficientNetB0 and InceptionV3 architectures with transfer learning to improve classification performance.
