@@ -9,7 +9,7 @@ This research presents a fusion deep learning framework combining **EfficientNet
 
 The project focuses on early detection of Potato Late Blight to support intelligent and efficient agricultural disease monitoring using Artificial Intelligence and Computer Vision.
 
-[📄 View Award Certificate](.Best Paper ID 450.pdf)
+[📄 View Award Certificate](./Best%20Paper%20ID%20450.pdf)
 
 # Potato Late Blight Detection using Fusion CNN
 
